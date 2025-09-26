@@ -1,4 +1,4 @@
-# 🚀 DevOps Git Project – Task 4
+# 🚀 DevOps Git Project
 
 This repository demonstrates **Git & GitHub best practices** for managing a DevOps project.  
 It contains all steps performed, from initializing the repo to tagging a release.  
