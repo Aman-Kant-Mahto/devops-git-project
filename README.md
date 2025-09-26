@@ -23,7 +23,7 @@ It contains all steps performed, from initializing the repo to tagging a release
 1. Created project folder:  
    ```bash
    mkdir devops-git-project && cd devops-git-project
-````
+   ```
 
 2. Initialized Git:
 
@@ -76,6 +76,7 @@ It contains all steps performed, from initializing the repo to tagging a release
    git checkout -b feature-setup
    git push -u origin feature-setup
    ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0517776e-ad50-48d2-bc20-e42462abd73e" />
 
 ---
 
@@ -97,6 +98,7 @@ It contains all steps performed, from initializing the repo to tagging a release
 1. Opened Pull Request (PR) from `feature-setup` → `dev`.
 2. Reviewed & merged changes into `dev`.
 3. Later, merged `dev` → `main` for production-ready code.
+<img width="1366" height="768" alt="Screenshot (449)" src="https://github.com/user-attachments/assets/1cfca9cd-ac8b-4fe3-a38b-49a69f0ebd71" />
 
 ---
 
